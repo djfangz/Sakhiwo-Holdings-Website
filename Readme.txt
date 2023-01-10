@@ -1,6 +1,6 @@
 Beta version of Sakhiwo 
 
 Website Name: Sakhiwo Holdings
-Website URL: https://sakhiwo.co.za/Sakhiwo HoldingsWebsite/
+Website URL: /Sakhiwo Holding
 Author: djfangz@gmail.com
 License: LICENSE
