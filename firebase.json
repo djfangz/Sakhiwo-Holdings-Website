@@ -1,0 +1,27 @@
+{
+  "functions": {
+    "predeploy": [
+      "npm --prefix \"$Sakhiwo Website\" run lint",
+      "npm --prefix \"$Sakhiwo Website\" run build"
+    ]
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "**/assets/**",
+      "**/css/**",
+      "**/js/**",
+      "**/.vscode/**",
+      "**/forms/**"
+    ],
+    "rewrites": [
+      {
+        "source": "index.html",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

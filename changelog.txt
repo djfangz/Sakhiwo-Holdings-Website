@@ -8,10 +8,10 @@ Version: 1.1.23
   - Removed jQuery and all the jQuery plugins
   - The assets/js/main.js was rewritten completely with vanilla Javascript. No more jQuery code
   - Restructured the dev version for better development experience
-  - Updated the PHP Email Form to V3.0 - No jQuery dependency. Added attachment support
-  - The Website was rebuilt from scratch with the latest Bootstrap version (4.4.1)
+  - Updated the PHP Email Form to V3.0 - No jQuery dependency.
+  - The Website was rebuilt from scratch with Bootstrap version (4.4.1)
   - Added SMPTP support for the contact form script (Pro)
-  - Added NodeJS NPM Development version (Pro unlimited & Membership members)
+  - Added NodeJS NPM Development version
   
 Version: 1.0.0
   - Initial Release
