@@ -21,6 +21,11 @@
       {
         "source": "index.html",
         "destination": "/index.html"
+      
+      },
+      {
+        "source": "assets/css/style.css",
+        "destination": "/css/style.css"
       }
     ]
   }
