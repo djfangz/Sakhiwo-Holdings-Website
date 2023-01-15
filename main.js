@@ -1,8 +1,8 @@
 /**
-* Website Name: Sakhiwo Holdings - v1.1.23
-* Website URL: https://sakhiwo.co.za/Sakhiwo HoldingsWebsite/
+* Website Name: Sakhiwo Finance - v2.1.23
+* Website URL: https://sakhiwofinance.com
 * Author: djfangz@gmail.com
-* License: https://sakhiwo.co.za/license/
+* License: https://sakhiwofinance.com/license/
 */
 (function() {
   "use strict";
